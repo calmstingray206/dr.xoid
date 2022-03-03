@@ -1,19 +1,8 @@
 
 import processing.sound.*;
-//win
-//if touch side kill and go to game over screen
 //ya
 //timer
-//zombie can kill you by touching you.
 //coolness
-//bethher art
-//dr.xoid
-//ak-47
-//pistol
-//every 15 bullets reload by paralize your shot for 2 seconds
-//bullet counter
-//map
-
 
 SoundFile file;
 int score = 0;

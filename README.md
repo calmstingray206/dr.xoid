@@ -6,4 +6,4 @@ user can shoot using spacebar
 the goal of the game is to eliminateas many of the moving zombies that you can and not get hit
 user can gain health points by touching right wall
 
-you can follow my other projects on github and my website here
+# you can follow my other projects on github and my website here
